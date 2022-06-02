@@ -1,2 +1,2 @@
 # git_test
-The Odin Project first GitHub Repo
+The Odin Project recipe project
